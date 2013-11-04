@@ -7,9 +7,9 @@
     "test": "test"
   },
   "dependencies": {
-    "ndarray": "~1.0.8"
   },
   "devDependencies": {
+    "ndarray": "~1.0.8",
     "tape": "~2.1.0"
   },
   "scripts": {
