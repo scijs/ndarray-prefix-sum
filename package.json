@@ -1,0 +1,43 @@
+{
+  "name": "ndarray-prefix-sum",
+  "version": "0.0.0",
+  "description": "Computes a prefix sum of an ndarray",
+  "main": "prefix-sum.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ndarray": "~1.0.8"
+  },
+  "devDependencies": {
+    "tape": "~2.1.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/ndarray-prefix-sum.git"
+  },
+  "keywords": [
+    "prefix",
+    "sum",
+    "ndarray",
+    "summed",
+    "area",
+    "table",
+    "integral",
+    "image",
+    "volume",
+    "voxel",
+    "pixel",
+    "detection",
+    "convolution",
+    "box"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/ndarray-prefix-sum/issues"
+  }
+}
