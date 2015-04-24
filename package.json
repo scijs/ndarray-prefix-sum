@@ -1,6 +1,6 @@
 {
   "name": "ndarray-prefix-sum",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Computes a prefix sum of an ndarray",
   "main": "prefix-sum.js",
   "directories": {
@@ -13,7 +13,7 @@
     "tape": "~2.1.0"
   },
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tape test/*.js"
   },
   "repository": {
     "type": "git",
