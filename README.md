@@ -30,5 +30,5 @@ Computes the prefix sum of `array` in place.
 
 **Returns** `array`
 
-##Credits
+## Credits
 (c) 2013 Mikola Lysenko. MIT License
